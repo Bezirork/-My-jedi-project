@@ -1,2 +1,2 @@
-# -My-jidi-project
+# -My-jedi-project
  My study
